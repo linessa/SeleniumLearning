@@ -67,6 +67,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="CheckMenu.cs" />
+    <Compile Include="CheckStikers.cs" />
     <Compile Include="LoginTest.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
