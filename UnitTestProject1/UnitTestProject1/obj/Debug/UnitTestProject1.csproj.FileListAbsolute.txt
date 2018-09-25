@@ -21,6 +21,6 @@ c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1\Un
 c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.xml
 c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.xml
 c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.xml
-c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
 c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
