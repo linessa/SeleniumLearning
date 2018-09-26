@@ -24,22 +24,17 @@ namespace UnitTestProject1
         {
             driver.Url = "http://localhost:8080/litecart/en/";
 
-            int productsNumber = driver.FindElements(By.CssSelector(".product.column.shadow.hover-light")).Count;
+            int productsNumber = driver.FindElements(By.CssSelector(".product")).Count;
             for (int i = 0; i < productsNumber; i++)
             {
-                IWebElement currentElement = driver.FindElements(By.CssSelector(".product.column.shadow.hover-light"))[i];
+                IWebElement currentElement = driver.FindElements(By.CssSelector(".product"))[i];
                 NUnit.Framework.Assert.True(AreOnlyOneElementPresent(driver, currentElement));
             }
         }
 
         public bool AreOnlyOneElementPresent(IWebDriver driver, IWebElement currentElement)
         {
-            bool result = false;
-            if (currentElement.FindElements(By.CssSelector(".sticker.sale")).Count == 1 ^ currentElement.FindElements(By.CssSelector(".sticker.new")).Count == 1)
-            {
-                result = true;
-            }
-            return result;
+            return currentElement.FindElements(By.CssSelector(".sticker")).Count == 1;
         }
 
         [TearDown]
