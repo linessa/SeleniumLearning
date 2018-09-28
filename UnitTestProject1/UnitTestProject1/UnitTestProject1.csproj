@@ -68,6 +68,7 @@
   <ItemGroup>
     <Compile Include="CheckCountrySort.cs" />
     <Compile Include="CheckMenu.cs" />
+    <Compile Include="CheckProductPage.cs" />
     <Compile Include="CheckStikers.cs" />
     <Compile Include="CheckZoneSort.cs" />
     <Compile Include="LoginTest.cs" />
