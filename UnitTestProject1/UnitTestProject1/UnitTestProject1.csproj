@@ -70,6 +70,7 @@
     <Compile Include="CheckMenu.cs" />
     <Compile Include="CheckProductPage.cs" />
     <Compile Include="CheckStikers.cs" />
+    <Compile Include="CheckUserRegistration.cs" />
     <Compile Include="CheckZoneSort.cs" />
     <Compile Include="LoginTest.cs" />
     <Compile Include="UnitTest1.cs" />
