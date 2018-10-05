@@ -67,6 +67,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="CheckAddProduct.cs" />
+    <Compile Include="CheckCart.cs" />
     <Compile Include="CheckCountrySort.cs" />
     <Compile Include="CheckMenu.cs" />
     <Compile Include="CheckProductPage.cs" />
