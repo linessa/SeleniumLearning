@@ -69,6 +69,7 @@
     <Compile Include="CheckAddProduct.cs" />
     <Compile Include="CheckCart.cs" />
     <Compile Include="CheckCountrySort.cs" />
+    <Compile Include="CheckLinksInNewWindow.cs" />
     <Compile Include="CheckMenu.cs" />
     <Compile Include="CheckProductPage.cs" />
     <Compile Include="CheckStikers.cs" />
