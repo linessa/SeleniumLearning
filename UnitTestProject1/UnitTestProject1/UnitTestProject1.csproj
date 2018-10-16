@@ -71,6 +71,7 @@
     <Compile Include="CheckCountrySort.cs" />
     <Compile Include="CheckLinksInNewWindow.cs" />
     <Compile Include="CheckMenu.cs" />
+    <Compile Include="CheckMessagesInBrowserLog.cs" />
     <Compile Include="CheckProductPage.cs" />
     <Compile Include="CheckStikers.cs" />
     <Compile Include="CheckUserRegistration.cs" />
