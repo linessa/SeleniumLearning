@@ -1,0 +1,25 @@
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1 - Copy\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1 - Copy\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1 - Copy\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1 - Copy\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1 - Copy\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1 - Copy\UnitTestProject1\bin\Debug\nunit.framework.dll
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1 - Copy\UnitTestProject1\bin\Debug\WebDriver.dll
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1 - Copy\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1 - Copy\UnitTestProject1\bin\Debug\nunit.framework.pdb
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1 - Copy\UnitTestProject1\bin\Debug\nunit.framework.xml
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1 - Copy\UnitTestProject1\bin\Debug\WebDriver.xml
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\UnitTestProject1 - Copy\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\TestArchitecture\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\TestArchitecture\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\TestArchitecture\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\TestArchitecture\UnitTestProject1\bin\Debug\nunit.framework.dll
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\TestArchitecture\UnitTestProject1\bin\Debug\WebDriver.dll
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\TestArchitecture\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\TestArchitecture\UnitTestProject1\bin\Debug\nunit.framework.pdb
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\TestArchitecture\UnitTestProject1\bin\Debug\nunit.framework.xml
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\TestArchitecture\UnitTestProject1\bin\Debug\WebDriver.xml
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\TestArchitecture\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\TestArchitecture\UnitTestProject1\obj\Debug\TestArchitecture.csprojResolveAssemblyReference.cache
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\TestArchitecture\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\seleniumLearning\GitHub\SeleniumLearning\SeleniumLearning\TestArchitecture\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
